@@ -1,0 +1,11 @@
+E:\Учеба\Academy\ITAcademy.HomeWorks\Lecture_14\Lecture_14\bin\Debug\netcoreapp3.1\Lecture_14.exe
+E:\Учеба\Academy\ITAcademy.HomeWorks\Lecture_14\Lecture_14\bin\Debug\netcoreapp3.1\Lecture_14.deps.json
+E:\Учеба\Academy\ITAcademy.HomeWorks\Lecture_14\Lecture_14\bin\Debug\netcoreapp3.1\Lecture_14.runtimeconfig.json
+E:\Учеба\Academy\ITAcademy.HomeWorks\Lecture_14\Lecture_14\bin\Debug\netcoreapp3.1\Lecture_14.runtimeconfig.dev.json
+E:\Учеба\Academy\ITAcademy.HomeWorks\Lecture_14\Lecture_14\bin\Debug\netcoreapp3.1\Lecture_14.dll
+E:\Учеба\Academy\ITAcademy.HomeWorks\Lecture_14\Lecture_14\bin\Debug\netcoreapp3.1\Lecture_14.pdb
+E:\Учеба\Academy\ITAcademy.HomeWorks\Lecture_14\Lecture_14\obj\Debug\netcoreapp3.1\Lecture_14.csprojAssemblyReference.cache
+E:\Учеба\Academy\ITAcademy.HomeWorks\Lecture_14\Lecture_14\obj\Debug\netcoreapp3.1\Lecture_14.AssemblyInfoInputs.cache
+E:\Учеба\Academy\ITAcademy.HomeWorks\Lecture_14\Lecture_14\obj\Debug\netcoreapp3.1\Lecture_14.AssemblyInfo.cs
+E:\Учеба\Academy\ITAcademy.HomeWorks\Lecture_14\Lecture_14\obj\Debug\netcoreapp3.1\Lecture_14.dll
+E:\Учеба\Academy\ITAcademy.HomeWorks\Lecture_14\Lecture_14\obj\Debug\netcoreapp3.1\Lecture_14.pdb
